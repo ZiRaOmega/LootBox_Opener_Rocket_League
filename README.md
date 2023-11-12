@@ -13,4 +13,4 @@ None
 First you need to go to the wanted lootbox in the game and press the Open button. Then you can run the script.
 
 ```powershell
-./auto_open_rl.ps1
+ powershell.exe -ExecutionPolicy Unrestricted -File .\auto_open_rl.ps1
